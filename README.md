@@ -17,7 +17,7 @@ success and provide recommendations for enhancing future marketing strategies.
 [Dataset-Link](https://raw.githubusercontent.com/ArchanaInsights/Datasets/main/marketing_campaign.csv)
 
 
-## Dataset
+## Data Dictionary
 
 The dataset used in this project is stored in `marketing_campaign_data.csv` and contains the following key columns:
 
@@ -93,9 +93,7 @@ import seaborn as sns
 
 Run the Python script to execute the analysis:
 
-```sh
 [python marketing_analysis.py](https://colab.research.google.com/drive/1XV8NSsTzzferqAmz6oeQIlHKLDb-2HZO?usp=sharing)
-```
 
 ## Results & Insights
 
